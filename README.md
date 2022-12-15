@@ -1,4 +1,4 @@
-# first-repo
+# FIRST-REPO
 
 This repo is to learn git.
 
